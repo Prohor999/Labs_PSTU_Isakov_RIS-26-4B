@@ -1,7 +1,7 @@
 # Лабораторные работы по информатике
 
 
-![Аватарка](https://github.com/Prohor999/Labs_PSTU_Isakov_RIS-26-4B/blob/main/1790613665475.jpg)
+![Аватарка](https://github.com/Prohor999/Labs_PSTU_Isakov_RIS-26-4B/blob/main/yo.jpg)
 
 **Студент**: Исаков Прохор
 **Группа**: РИС-26-4б
